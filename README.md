@@ -1,45 +1,43 @@
-# 👋 Hi there, I'm Neha Dubey!
+👋 Hi, I’m Neha Dubey
 
-I'm a Java backend developer with 3+ years of experience building secure, scalable enterprise applications and automating CI/CD pipelines. 
-I work at Morgan Stanley, contributing to performance tuning, network security, and automation across backend systems.
+I’m a **Senior Security Automation & DevSecOps Engineer** with 3+ years of experience building and enforcing security controls across firewall infrastructure and CI/CD pipelines in large-scale enterprise environments.
 
----
-
-### 🔧 Tech Stack & Tools
-- **Languages:** Java, Python, SQL, Shell
-- **Frameworks:** Spring Boot, Hibernate, JUnit, AngularJS
-- **DevOps:** Docker, Jenkins, OpenShift, SonarQube
-- **Database:** MySQL, Sybase
-- **Tools:** Git, Postman, Swagger, IntelliJ, Eclipse
-- **Concepts:** REST APIs, CI/CD, Network Security, Agile, Load Balancing
+I currently work at **Morgan Stanley**, where my focus is on reducing security risk through automation—designing host-based firewall policies, implementing micro-segmentation, and integrating security validation directly into CI/CD workflows.
 
 ---
 
-### 🚀 What I'm Working On
-- Automating policy enforcement for network firewall configurations
-- Upgrading internal toolchains to enhance CI/CD and reduce manual overhead
-- Improving application performance and reducing tech debt via library upgrades
+🔐 What I Work On
+
+- Security automation using Python to eliminate manual review effort and reduce risk
+- Firewall security and host-based controls across Linux and Windows systems
+- Illumio micro-segmentation to limit lateral movement and tighten network policies
+- CI/CD security enforcement to block risky changes before they reach production
+- Improving security visibility through logging, monitoring, and validation checks
 
 ---
 
-### 📚 What I'm Learning
-- Deep diving into **Site Reliability Engineering** (SRE)
-- Expanding my knowledge of **cloud platforms** (AWS)
-- Mastering **system design** and clean architecture principles
+🛠️ Core Technologies
+
+- **Security & Automation:** Python, Security Automation, DevSecOps
+- **Infrastructure Security:** Firewalls, Illumio Micro-segmentation, Network Security
+- **CI/CD & Platforms:** GitHub Actions, Jenkins, Linux, AWS (security-focused)
+- **Observability:** Splunk, Logging & Monitoring
 
 ---
 
-### 🌱 Side Projects
-- 🛡️ **Network Policy Tool** – CLI tool for managing iptables/firewall rules
-- 📦 **Spring Boot Starter** – Template for REST APIs with integrated CI/CD
-- 👩‍💻 **Employee Manager** – Full CRUD system using Spring Boot & MySQL
+📌 Selected Projects
+
+🛡️ **Firewall Risk Analyzer (Python Automation)**  
+Python-based tool to analyze firewall rules, identify overly permissive configurations, and automate policy validation to reduce manual security review effort.
+
+🔐 **CI/CD Security Enforcement Pipeline (DevSecOps)**  
+GitHub Actions–based pipeline that detects hardcoded secrets and enforces severity-based security controls, failing builds on high-risk issues.
+
+(See repositories for details.)
 
 ---
 
-### 📫 Let’s Connect!
-- 📧 [008nehadubey@gmail.com](mailto:008nehadubey@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/nehadubey2003)
+🎯 What I’m Interested In
 
----
-
-⭐️ *Thanks for stopping by! Let's build something awesome together.*
+- DevSecOps Engineering
+- Security
